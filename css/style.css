@@ -358,6 +358,7 @@ header {
 .footer {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 6.4rem;
   padding-top: 3.6rem;
   padding-bottom: 3.6rem;
