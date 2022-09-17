@@ -1,10 +1,10 @@
 # Project Name
 
-My Portfolio Website
+Capstone Project
 
 # Description the project.
 
-The Project is to validate the content of the contact e-mail field to be in lower case.
+The Project is to build a website that trains people on IT related fields such as web development, graphic designs, digital marketing, etc.
 
 The pull request is opened to get a review on the project and check for any required changes.
 
@@ -36,7 +36,7 @@ to use the project To do list please follow :
 
 > Syntax:
 
-$ git clone {https://github.com/Johnadibe/Johnadibe.github.io.git}
+$ git clone {https://github.com/Johnadibe/capstone-project.git}
 
 ### Usage
 
@@ -54,7 +54,7 @@ $ git clone {https://github.com/Johnadibe/Johnadibe.github.io.git}
 
 ### Live Demo
 
-[my-portfolio-website](https://johnadibe.github.io/)
+[my-capstone-project-website](https://johnadibe.github.io/capstone-project/)
 
 ## Show your support
 
