@@ -8,6 +8,7 @@ btnNavigationElement.addEventListener('click', () => {
 });
 
 // Mobile Menu dissapear on clicking any of the mobile options
+
 const navLinks = document.querySelectorAll('.main-nav-link');
 navLinks.forEach((link) => {
     link.addEventListener('click', () => {
@@ -16,6 +17,7 @@ navLinks.forEach((link) => {
 });
 
 // Featured Speaker Section
+
 const speakerData = [{
         imageSrc: 'img/speaker_01.png',
         imageAlt: 'Yochai Benkler Photo',
