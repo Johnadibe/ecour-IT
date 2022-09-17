@@ -127,8 +127,8 @@ header {
 }
 
 .hero-section {
-    padding-top: 9.2rem;
-    padding-bottom: 6.2rem;
+    padding-top: 8.6rem;
+    padding-bottom: 7.2rem;
     background-image: linear-gradient(rgba(211, 211, 211, 0.88), rgba(211, 211, 211, 0.9)), url(../img/past-training1.jpg);
     background-size: 100%;
 }
