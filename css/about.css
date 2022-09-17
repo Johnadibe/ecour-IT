@@ -1,253 +1,272 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    font-size: 52.5%;
-    overflow-x: hidden;
+  font-size: 52.5%;
+  overflow-x: hidden;
 }
 
 body {
-    line-height: 1;
-    overflow-x: hidden;
-    font-family: 'Lato', sans-serif;
+  line-height: 1;
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
 }
 
 .hero-section {
-    background-color: rgba(211, 211, 211, 0.5);
-    background-image: none;
-    text-align: center;
+  background-color: rgba(211, 211, 211, 0.5);
+  background-image: none;
+  text-align: center;
 }
 
 .hero-heading {
-    font-size: 4.8rem;
-    line-height: 6.4rem;
-    letter-spacing: 0.037rem;
-    color: #ec5242;
+  font-size: 4.8rem;
+  line-height: 6.4rem;
+  letter-spacing: 0.037rem;
+  color: #ec5242;
 }
 
 .hero-text {
-    border: 2px solid #fff;
-    background-color: #fff;
-    color: #272a31;
-    margin-top: 2.4rem;
+  border: 2px solid #fff;
+  background-color: #fff;
+  color: #272a31;
+  margin-top: 2.4rem;
 }
 
 .contact-box {
-    margin-top: 3.2rem;
+  margin-top: 3.2rem;
 }
 
 .contact {
-    font-size: 1.8rem;
-    line-height: 3rem;
-    color: #272a31;
-    font-weight: 400;
+  font-size: 1.8rem;
+  line-height: 3rem;
+  color: #272a31;
+  font-weight: 400;
 }
 
 .email-contact {
-    font-size: 1.8rem;
-    line-height: 3rem;
-    color: #272a31;
-    font-weight: 700;
+  font-size: 1.8rem;
+  line-height: 3rem;
+  color: #272a31;
+  font-weight: 700;
 }
 
 .ecour-logo-section {
-    padding-top: 4.2rem;
-    margin-bottom: 4.2rem;
+  padding-top: 4.2rem;
+  margin-bottom: 4.2rem;
 }
 
 .ecour-title {
-    font-size: 2.4rem;
-    font-weight: 700;
-    color: #272a31;
-    text-align: center;
-    margin-bottom: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #272a31;
+  text-align: center;
+  margin-bottom: 1.6rem;
 }
 
 .about-guide-bar {
-    border: 1px solid #ec5242;
-    width: 3.2rem;
-    margin: auto;
-    margin-bottom: 1.6rem;
+  border: 1px solid #ec5242;
+  width: 3.2rem;
+  margin: auto;
+  margin-bottom: 1.6rem;
 }
 
 .ecour-text,
 .more-text {
-    font-size: 1.8rem;
-    line-height: 2.4rem;
-    color: #272a31;
-    font-weight: 400;
-    text-align: center;
-    margin-bottom: 4.4rem;
+  font-size: 1.8rem;
+  line-height: 2.4rem;
+  color: #272a31;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 4.4rem;
 }
 
 .more-text {
-    display: none;
+  display: none;
 }
 
 .ecour-logo {
-    border: 1px solid #d3d3d3;
-    padding: 3.8rem 6.4rem;
-    text-align: center;
+  border: 1px solid #d3d3d3;
+  padding: 3.8rem 6.4rem;
+  text-align: center;
 }
 
 .ecour-logo img {
-    width: 100%;
+  width: 100%;
 }
 
 .past-training {
-    padding-top: 4.2rem;
-    padding-bottom: 5.6rem;
+  padding-top: 4.2rem;
+  padding-bottom: 5.6rem;
 }
 
 .past-training-title {
-    font-size: 2.4rem;
-    font-weight: 700;
-    color: #272a31;
-    text-align: center;
-    margin-bottom: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: #272a31;
+  text-align: center;
+  margin-bottom: 1.6rem;
 }
 
 .past-training-text {
-    font-size: 1.6rem;
-    line-height: 2.4rem;
-    color: #272a31;
-    font-weight: 400;
-    text-align: center;
-    margin-bottom: 4.4rem;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  color: #272a31;
+  font-weight: 400;
+  text-align: center;
+  margin-bottom: 4.4rem;
 }
 
 .past-training-box {
-    display: flex;
-    flex-direction: column;
-    gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
 }
 
 .past-training-text-box {
-    background-image: linear-gradient(rgba(236, 82, 66, 0.75), rgba(236, 82, 66, 0.75)), url(../img/past-training1.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-    padding-top: 6.2rem;
-    padding-bottom: 6.2rem;
+  background-image: linear-gradient(rgba(236, 82, 66, 0.75), rgba(236, 82, 66, 0.75)), url(../img/past-training1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding-top: 6.2rem;
+  padding-bottom: 6.2rem;
 }
 
 .past-training-text-box:nth-child(2) {
-    background-image: linear-gradient(rgba(236, 82, 66, 0.75), rgba(236, 82, 66, 0.75)), url(../img/past-traning2.png);
+  background-image: linear-gradient(rgba(236, 82, 66, 0.75), rgba(236, 82, 66, 0.75)), url(../img/past-traning2.png);
 }
 
 .training-year {
-    font-size: 3.2rem;
-    font-weight: 700;
-    line-height: 1.6;
-    color: #fff;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.6;
+  color: #fff;
 }
 
 .training-location {
-    font-size: 1.6rem;
-    font-weight: 700;
-    line-height: 2.4;
-    color: #fff;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2.4;
+  color: #fff;
 }
 
 .footer {
-    display: flex;
-    align-items: center;
-    gap: 6.4rem;
-    padding-top: 3.6rem;
-    padding-bottom: 3.6rem;
+  display: flex;
+  align-items: center;
+  gap: 6.4rem;
+  padding-top: 3.6rem;
+  padding-bottom: 3.6rem;
 }
 
 .footer a {
-    width: 35%;
+  width: 35%;
 }
 
 .footer img {
-    width: 100%;
+  width: 100%;
 }
 
 .footer-text,
 .rights-reserve {
-    font-size: 1.6rem;
-    font-weight: 700;
-    color: #272a31;
-    line-height: 2.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #272a31;
+  line-height: 2.4rem;
 }
 
 @media screen and (min-width: 768px) {
-    html {
-        font-size: 50%;
-    }
-    .hero-section {
-        padding-bottom: 8.6rem;
-    }
-    .hero-box {
-        margin: 0 auto;
-    }
-    .hero-intro {
-        display: none;
-    }
-    .contact-box {
-        margin-top: 4.4rem;
-    }
-    .contact br {
-        display: none;
-    }
-    .email-contact:hover {
-        text-decoration: none;
-    }
-    .ecour-title {
-        font-size: 2.8rem;
-    }
-    .ecour-logo {
-        width: 40%;
-        border: 1px solid #d3d3d3;
-        text-align: center;
-        margin: auto;
-    }
-    .ecour-logo img {
-        width: 100%;
-    }
-    .divider {
-        border: 1px solid #d3d3d3;
-    }
-    .past-training {
-        padding-bottom: 9.6rem;
-    }
-    .past-training-title {
-        font-size: 2.8rem;
-    }
-    .past-training-box {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        align-items: center;
-    }
-    .past-training-text-box {
-        padding-top: 8.6rem;
-        padding-bottom: 8.6rem;
-    }
-    .past-training-text {
-        font-size: 1.8rem;
-    }
-    .footer {
-        background-color: #272a31;
-        padding-top: 6.4rem;
-        padding-bottom: 3.6rem;
-    }
-    .footer a {
-        width: 20%;
-    }
-    .footer-text,
-    .rights-reserve {
-        color: #fff;
-    }
+  html {
+    font-size: 50%;
+  }
+
+  .hero-section {
+    padding-bottom: 8.6rem;
+  }
+
+  .hero-box {
+    margin: 0 auto;
+  }
+
+  .hero-intro {
+    display: none;
+  }
+
+  .contact-box {
+    margin-top: 4.4rem;
+  }
+
+  .contact br {
+    display: none;
+  }
+
+  .email-contact:hover {
+    text-decoration: none;
+  }
+
+  .ecour-title {
+    font-size: 2.8rem;
+  }
+
+  .ecour-logo {
+    width: 40%;
+    border: 1px solid #d3d3d3;
+    text-align: center;
+    margin: auto;
+  }
+
+  .ecour-logo img {
+    width: 100%;
+  }
+
+  .divider {
+    border: 1px solid #d3d3d3;
+  }
+
+  .past-training {
+    padding-bottom: 9.6rem;
+  }
+
+  .past-training-title {
+    font-size: 2.8rem;
+  }
+
+  .past-training-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+  }
+
+  .past-training-text-box {
+    padding-top: 8.6rem;
+    padding-bottom: 8.6rem;
+  }
+
+  .past-training-text {
+    font-size: 1.8rem;
+  }
+
+  .footer {
+    background-color: #272a31;
+    padding-top: 6.4rem;
+    padding-bottom: 3.6rem;
+  }
+
+  .footer a {
+    width: 20%;
+  }
+
+  .footer-text,
+  .rights-reserve {
+    color: #fff;
+  }
 }
 
 @media screen and (min-width: 1200px) {
-    html {
-        font-size: 62.5%;
-    }
+  html {
+    font-size: 62.5%;
+  }
 }
