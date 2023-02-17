@@ -54,7 +54,7 @@ $ git clone {https://github.com/Johnadibe/capstone-project.git}
 
 ### Live Demo
 
-[my-capstone-project-website](https://johnadibe.github.io/capstone-project/)
+[my-capstone-project-website](https://johnadibe.github.io/ecour-IT/)
 
 ## Show your support
 
