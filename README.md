@@ -2,11 +2,11 @@
 
 Capstone Project
 
-# Description the project.
+# Description of the project.
 
-The Project is to build a website that trains people on IT related fields such as web development, graphic designs, digital marketing, etc.
+The Project is to build a website that trains people in IT-related fields such as web development, graphic design, digital marketing, etc.
 
-The pull request is opened to get a review on the project and check for any required changes.
+The pull request is opened to get a review of the project and check for any required changes.
 
 ## Built With
 
@@ -22,17 +22,17 @@ follow>>>>>>>>>
 
 ### Setup
 
-to use the project To do list please follow :
+to use the project To do list please follow the:
 
 > Open GitHub and go to my GitHub repository name: hello_microverse clone.
 > Click “Code” and copy the given URL.
-> click code and copy the URL.
+> Click the code and copy the URL.
 
-> click code and copy the URL.
+> Click the code and copy the URL.
 
 > Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
 
-> Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
+> Type git clone in the terminal, paste the URL you copied earlier and press “enter” to create your local clone.
 
 > Syntax:
 
@@ -40,9 +40,9 @@ $ git clone {https://github.com/Johnadibe/capstone-project.git}
 
 ### Usage
 
-> open your directory math-magician/
+> Open your directory math-magician/
 
-\_use vs-code or any IDE to view line code .
+\_use vs-code or any IDE to view line code.
 
 ## Author
 
