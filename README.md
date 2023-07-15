@@ -10,7 +10,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -20,7 +19,7 @@
  
 # Ecour IT <a name="about-project"></a>
 
-**Ecour IT** is a  a website that trains people in IT-related fields such as web development, graphic design, digital marketing, etc.
+**Ecour IT** is a website that trains people in IT-related fields such as web development, graphic design, digital marketing, etc.
 
 ![ecour](https://github.com/Johnadibe/Johnadibe.github.io/assets/40009354/e9413f78-ee29-46d9-abd2-5e319a161933)
 
