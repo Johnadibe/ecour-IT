@@ -1,71 +1,131 @@
-# Project Name
+# 📗 Table of Contents
 
-Capstone Project
+- [📗 Table of Contents](#-table-of-contents)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+ 
+# Ecour IT <a name="about-project"></a>
 
-# Description of the project.
+**Ecour IT** is a  a website that trains people in IT-related fields such as web development, graphic design, digital marketing, etc.
 
-The Project is to build a website that trains people in IT-related fields such as web development, graphic design, digital marketing, etc.
+![ecour](https://github.com/Johnadibe/Johnadibe.github.io/assets/40009354/e9413f78-ee29-46d9-abd2-5e319a161933)
 
-The pull request is opened to get a review of the project and check for any required changes.
+## 🛠 Built With <a name="built-with"></a>
 
-## Built With
+### Tech Stack <a name="tech-stack"></a>
 
-- HTML
-- CSS
-- JavaScript
-- Visual Studio Code
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+     <li><a href="https://www.javascript.com/">JavaScript</a></li>
+  </ul>
+</details>
 
----
+### Key Features <a name="key-features"></a>
 
-To get a local copy up and running follow these simple example steps.
-follow>>>>>>>>>
+- **[Add Speaker Section]**
+- **[Add About Page]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://johnadibe.github.io/ecour-IT/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
 
 ### Setup
 
-to use the project To do list please follow the:
+Clone this repository to your desired folder:
 
-> Open GitHub and go to my GitHub repository name: hello_microverse clone.
-> Click “Code” and copy the given URL.
-> Click the code and copy the URL.
+```sh
+  cd my-folder
+  git clone https://github.com/Johnadibe/ecour-IT.git
+```
 
-> Click the code and copy the URL.
+### Install
 
-> Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
+Install this project with:
 
-> Type git clone in the terminal, paste the URL you copied earlier and press “enter” to create your local clone.
-
-> Syntax:
-
-$ git clone {https://github.com/Johnadibe/capstone-project.git}
+```sh
+  npm install
+```
 
 ### Usage
 
-> Open your directory math-magician/
+To run the project, execute the following command:
 
-\_use vs-code or any IDE to view line code.
+```sh
+  Live Server or Open index.html file in the browser
+```
 
-## Author
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="author"></a>
 
 👤 **John Adibe**
 
-- GitHub: [@githubhandle](https://github.com/johnadibe)
-- Twitter: [@twitterhandle](https://twitter.com/JohnAdibe2)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/john-adibe-400b36166/)
+- GitHub: [@Johnadibe](https://github.com/Johnadibe)
+- Twitter: [@JohnAdibe2](https://twitter.com/JohnAdibe2)
+- LinkedIn: [@John Adibe](https://www.linkedin.com/in/john-adibe/)
 
-### Live Demo
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[my-capstone-project-website](https://johnadibe.github.io/ecour-IT/)
+## 🔭 Future Features <a name="future-features"></a>
 
-## Show your support
+- [ ] **[Add Login and Sign up Page]**
+- [ ] **[Add FAQ section]**
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project consider giving it a star ⭐️.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse
 - Inspiration
 - etc
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
